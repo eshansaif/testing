@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+
+.blog{
+    background-color: skyblue;
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.blog-title{
+    text-align: center;
+    font-size: 2em;
+}
+
+.author-name{
+    color: chocolate;
+}
+
+
+
+ul{
+    background-color: #f44336;
+    text-align: center;
+    margin: 0;
+    
+}
+
+.menu{
+    
+    display: inline-block;
+    padding: 20px 20px;
+    
+    
+}
+
+a:link, a {
+    
+    color: white;
+    padding: 0x 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+  }
+
+  
+  a:hover, a:active {
+    background-color: red;
+    color: black;
+  }

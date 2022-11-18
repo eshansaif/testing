@@ -20,7 +20,14 @@ body{
     color: chocolate;
 }
 
-
+img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 ul{
     background-color: #f44336;
